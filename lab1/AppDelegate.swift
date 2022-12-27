@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  lab1
 //
-//  Created by Diana Krasnova on 27.12.2022.
+//  Created by Nastya Danilova on 27.12.2022.
 //
 
 import UIKit
